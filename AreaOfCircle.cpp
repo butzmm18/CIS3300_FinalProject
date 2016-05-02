@@ -4,6 +4,7 @@
 /* AreaOfCircleWithRadius.cpp by Michaela Butz
 * Prompts the user to enter a number (radius) and then calculates the 
 * area of a circle with given radius.
+*
 **/
 
 #include "stdafx.h"
